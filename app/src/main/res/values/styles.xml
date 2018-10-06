@@ -1,0 +1,96 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="brown">
+        <item name="android:background">#56393d</item>
+    </style>
+
+    <style name="titletool">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">15dp</item>
+    </style>
+
+    <style name="profile">
+        <item name="android:background">#80FFFFFF</item>
+    </style>
+
+    <style name="tprofile">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">15dp</item>
+    </style>
+
+    <style name="john">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">18dp</item>
+    </style>
+
+    <style name="loremm">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">18dp</item>
+    </style>
+
+    <style name="white">
+        <item name="android:background">#FFFFFF</item>
+    </style>
+
+    <style name="money">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#56393d</item>
+        <item name="android:textSize">12dp</item>
+    </style>
+
+    <style name="apps">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#56393d</item>
+        <item name="android:textSize">12dp</item>
+    </style>
+
+    <style name="fave">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#56393d</item>
+        <item name="android:textSize">12dp</item>
+    </style>
+
+    <style name="sel">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#56393d</item>
+        <item name="android:textSize">12dp</item>
+    </style>
+
+    <style name="brown2">
+        <item name="android:background">#56393d</item>
+    </style>
+
+    <style name="red">
+        <item name="android:background">#d32f2f</item>
+    </style>
+
+    <style name="opt">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">12dp</item>
+    </style>
+
+    <style name="alarm">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">12dp</item>
+    </style>
+
+    <style name="info">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">12dp</item>
+    </style>
+
+</resources>
